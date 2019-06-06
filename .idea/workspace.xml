@@ -3,11 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f72aa70c-db93-4ed1-a981-433cab32fd2b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.circleci/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.circleci/config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.coverage" beforeDir="false" afterPath="$PROJECT_DIR$/.coverage" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/calculator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calculator/pip-selfcheck.json" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/pip-selfcheck.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_calculator.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,8 +38,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.circleci/config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="33" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
+            <state relative-caret-position="360">
+              <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -192,18 +187,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.coverage">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/requirements.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_calculator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/.coverage">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/calculator.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -212,10 +200,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/test_calculator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.circleci/config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="33" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
+        <state relative-caret-position="360">
+          <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
         </state>
       </provider>
     </entry>
